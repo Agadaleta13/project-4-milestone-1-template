@@ -1,4 +1,4 @@
-# Project 4 Milestone 1 Template
+pip# Project 4 Milestone 1 Template
 This is the first part to your Project 4 set of assignments. This is an independent assignment which will make sure you have learned how to:
 - **Clone** a Github repository
 - Make changes and **commit** and **push** to a remote repository
